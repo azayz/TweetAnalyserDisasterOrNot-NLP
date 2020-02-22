@@ -1,0 +1,2 @@
+# TweetAnalyserDisasterOrNot-NLP
+This is my work on the kaggle comeptition Disaster or Not. It's about classifying tweets : tweets that are reporting actual and real disasters and tweets that aren't. In my work I used a lot of NLP techniques word2vec / TF-IDF / lemmitazation / Words clouds. In modeling I applied ensembling and boosting models to get best Results. Next up I ll try embeddings and BERT.
